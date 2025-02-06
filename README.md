@@ -60,17 +60,14 @@ The repository includes the following scripts:
   - Plots **learning curves** with **bootstrapped 95% confidence intervals**.  
 - **Related to:** *Figure 8 in the paper.*
 
----
 
-## ** Usage**
+### **Usage**
 These scripts can be adapted to work with other datasets by modifying the data preprocessing steps. Ensure that your dataset follows a similar structure to the one used in this research [DOI: 10.1175/AIES-D-23-0047.1](https://doi.org/10.1175/AIES-D-23-0047.1) 
 
----
-## ** Citation**
+
+### **Citation**
 If you find this repository useful, please cite our paper [DOI: 10.1175/AIES-D-23-0047.1](https://doi.org/10.1175/AIES-D-23-0047.1)
 
----
-## **Contact**
-
-For questions or collaborations, feel free to reach out via GitHub Issues or email.
+### **Contact**
+For questions or collaborations, feel free to reach out via GitHub Issues or email:israt.jahan@uconn.edu
 
