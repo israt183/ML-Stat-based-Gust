@@ -2,7 +2,7 @@
 
 This repository contains selected scripts used in our research on storm gust predictions using machine learning and statistical models and WRF model variables for the Northeast United States. The study evaluates different machine learning and statistical algorithms, performs hyperparameter tuning, and analyzes model performance spatially and statistically.  
 
-📄 **Publication:** This research is published in *Artificial Intelligence for the Earth Systems*  
+📄 **Publication:** This research was published in AMS journal *Artificial Intelligence for the Earth Systems*.    
 [DOI: 10.1175/AIES-D-23-0047.1](https://doi.org/10.1175/AIES-D-23-0047.1)  
 
 ---
