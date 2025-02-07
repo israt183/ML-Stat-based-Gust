@@ -12,7 +12,7 @@ The repository includes the following scripts:
 
 ### **1️⃣ Data**
 - 📁 **Directory:** `Data/`  
-- **Description:** Contains the datasets and station information used in this study.
+- **Description:** Contains toy datasets that can be used to run the scripts. You will need to update the filenames in the scripts to match the filenames of the toy datasets.
 
 ### **2️⃣ Training and Inference**
 - **Scripts:**
